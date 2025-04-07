@@ -1,0 +1,15 @@
+proclore 51984
+bg 51984
+proclore 51984
+activities
+fg 51984
+neonate 2
+neonate -n 2
+iMan ls
+iMan sleep
+exit
+ls &
+sleep 3 &
+sleep 10 &
+ls
+exit
